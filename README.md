@@ -25,7 +25,7 @@
 
 ### Speech Record ⚡ 
 
-<img src="/project-images/nachrichtenDesTages.png" style="height: 400px"/>
+<img src="/project-images/speech_record.png" style="width: 700px"/>
 
 - Vue.js 를 사용 하였습니다.
 - 웹에서 음성 인식 추출 API( Web Speech API ) 사용하였습니다.
